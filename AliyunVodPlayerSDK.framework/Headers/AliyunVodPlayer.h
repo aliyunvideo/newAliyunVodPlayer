@@ -178,6 +178,11 @@
 @property (nonatomic,assign) AliyunVodPlayerDisplayMode displayMode;
 
 /**
+ @brief 获取是否静音
+ */
+@property (nonatomic, readonly)  BOOL isMute;
+
+/**
  @brief 设置视频亮度
  */
 @property (nonatomic, readwrite)  float brightness;
