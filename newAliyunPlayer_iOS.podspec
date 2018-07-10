@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/aliyunvideo/newAliyunVodPlayer.git", :tag => "#{s.version}" }
   
-  s.vendored_frameworks = 'AliyunVodPlayerSDK.framework,ffmpeg.framework’
+  s.vendored_frameworks = 'AliyunVodPlayerSDK.framework,ffmpeg.framework'
   
   s.requires_arc = true
    
