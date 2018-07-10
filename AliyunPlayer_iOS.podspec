@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name         = “newAliyunPlayer_iOS"
-  s.version      = “1.0.0”
+  s.name         = "newAliyunPlayer_iOS"
+  s.version      = "1.0.0"
   s.summary      = "newAliyunPlayer_iOS"
   s.description  = <<-DESC
                    It's an SDK for aliyun video vodplay, which implement by Objective-C.
